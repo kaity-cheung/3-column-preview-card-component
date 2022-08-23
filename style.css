@@ -1,6 +1,4 @@
-<style>
-    .attribution { font-size: 11px; text-align: center; font-family: 'Lexend Deca', sans-serif;}
-    .attribution a { color: hsl(228, 45%, 44%); font-family: 'Lexend Deca', sans-serif;}
+
     body {
       background-color: hsl(0, 0%, 95%);
     }
@@ -71,6 +69,8 @@
     .third button {
       color: hsl(179, 100%, 13%);
     }
+    .attribution { font-size: 11px; text-align: center; font-family: 'Lexend Deca', sans-serif;}
+    .attribution a { color: hsl(228, 45%, 44%); font-family: 'Lexend Deca', sans-serif;}
     @media screen and (max-width: 600px) {
     .container {
     flex-direction: column;
